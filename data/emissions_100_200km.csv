@@ -1,0 +1,161 @@
+,sector,sector_long,poll,distance_km,value_tonne
+1,agroob,Agriculture residue open burning,BC,100,3342.374035
+2,agroob,Agriculture residue open burning,CH4,100,25677.43327
+3,agroob,Agriculture residue open burning,CO,100,1090445.374
+4,agroob,Agriculture residue open burning,NH3,100,24252.68455
+5,agroob,Agriculture residue open burning,NMVOC,100,44639.11343
+6,agroob,Agriculture residue open burning,NOx,100,14915.74681
+7,agroob,Agriculture residue open burning,OC,100,18320.77265
+8,agroob,Agriculture residue open burning,PM,100,104988.0849
+9,agroob,Agriculture residue open burning,SO2,100,1217.596488
+10,aviation,Aviation,BC,100,31.49589944
+11,aviation,Aviation,CH4,100,47.72912717
+12,aviation,Aviation,CO,100,9885.33429
+13,aviation,Aviation,NMVOC,100,2211.974136
+14,aviation,Aviation,NOx,100,15427.85522
+15,aviation,Aviation,OC,100,48.07374191
+16,aviation,Aviation,PM,100,165.9097767
+17,aviation,Aviation,SO2,100,986.8317795
+18,comres,Commercial and residential,BC,100,2550.447557
+19,comres,Commercial and residential,CH4,100,11810.31914
+20,comres,Commercial and residential,CO,100,98663.73049
+21,comres,Commercial and residential,NH3,100,1071.060742
+22,comres,Commercial and residential,NMVOC,100,9640.222817
+23,comres,Commercial and residential,NOx,100,16396.58173
+24,comres,Commercial and residential,OC,100,4221.007088
+25,comres,Commercial and residential,PM,100,13102.14369
+26,comres,Commercial and residential,SO2,100,3049.947534
+27,forest,Forest fire,BC,100,21.19623953
+28,forest,Forest fire,CH4,100,218.3855012
+29,forest,Forest fire,CO,100,3340.013544
+30,forest,Forest fire,NH3,100,24.40779167
+31,forest,Forest fire,NMVOC,100,260.1356694
+32,forest,Forest fire,NOx,100,78.68301245
+33,forest,Forest fire,OC,100,167.0006755
+34,forest,Forest fire,PM,100,629.4640996
+35,forest,Forest fire,SO2,100,18.3058434
+36,gasdist,Gasoline distribution,NMVOC,100,48921.58343
+37,industry,Manufacturing industry,BC,100,146.2848409
+38,industry,Manufacturing industry,CH4,100,4095.431514
+39,industry,Manufacturing industry,CO,100,7648178.247
+40,industry,Manufacturing industry,NH3,100,5008.811147
+41,industry,Manufacturing industry,NMVOC,100,19652.56422
+42,industry,Manufacturing industry,NOx,100,212759.8787
+43,industry,Manufacturing industry,OC,100,116.2957977
+44,industry,Manufacturing industry,PM,100,12024.65405
+45,industry,Manufacturing industry,SO2,100,11991.86785
+46,landfill,Landfill,CH4,100,1078.435421
+47,livestock,Livestock,NH3,100,292404.3338
+48,power,Power generation,BC,100,9.702736519
+49,power,Power generation,CH4,100,6047.734104
+50,power,Power generation,CO,100,24565.89642
+51,power,Power generation,NH3,100,914.7138563
+52,power,Power generation,NMVOC,100,6142.687757
+53,power,Power generation,NOx,100,130793.71
+54,power,Power generation,OC,100,88.20310986
+55,power,Power generation,PM,100,18720.27271
+56,power,Power generation,SO2,100,256860.7641
+57,shipping,Shipping,BC,100,118.8529262
+58,shipping,Shipping,CO,100,400.8660254
+59,shipping,Shipping,NOx,100,5260.54896
+60,shipping,Shipping,OC,100,168.6647984
+61,shipping,Shipping,PM,100,881.8266269
+62,shipping,Shipping,SO2,100,3580.571745
+63,solidwaste,Solid waste open burning,BC,100,6138.827525
+64,solidwaste,Solid waste open burning,CH4,100,7254.978031
+65,solidwaste,Solid waste open burning,CO,100,46878.31965
+66,solidwaste,Solid waste open burning,NH3,100,1049.181433
+67,solidwaste,Solid waste open burning,NMVOC,100,16742.25699
+68,solidwaste,Solid waste open burning,NOx,100,3348.451372
+69,solidwaste,Solid waste open burning,OC,100,6138.827525
+70,solidwaste,Solid waste open burning,PM,100,19867.47835
+71,solidwaste,Solid waste open burning,SO2,100,558.0752304
+72,transport,Road transportation,BC,100,28248.36094
+73,transport,Road transportation,CH4,100,22072.0536
+74,transport,Road transportation,CO,100,1644636.278
+75,transport,Road transportation,NH3,100,39466.63186
+76,transport,Road transportation,NMVOC,100,456817.5575
+77,transport,Road transportation,NOx,100,1306940.747
+78,transport,Road transportation,OC,100,75787.27403
+79,transport,Road transportation,PM,100,244991.6003
+80,transport,Road transportation,SO2,100,49765.92685
+81,agroob,Agriculture residue open burning,BC,200,7734.027349
+82,agroob,Agriculture residue open burning,CH4,200,59547.58674
+83,agroob,Agriculture residue open burning,CO,200,2525220.028
+84,agroob,Agriculture residue open burning,NH3,200,56183.15664
+85,agroob,Agriculture residue open burning,NMVOC,200,103160.3918
+86,agroob,Agriculture residue open burning,NOx,200,34440.84394
+87,agroob,Agriculture residue open burning,OC,200,42378.7099
+88,agroob,Agriculture residue open burning,PM,200,243180.5254
+89,agroob,Agriculture residue open burning,SO2,200,2817.268853
+90,aviation,Aviation,BC,200,32.93124197
+91,aviation,Aviation,CH4,200,49.64953856
+92,aviation,Aviation,CO,200,10301.83413
+93,aviation,Aviation,NMVOC,200,2265.802952
+94,aviation,Aviation,NOx,200,15937.18319
+95,aviation,Aviation,OC,200,50.25613925
+96,aviation,Aviation,PM,200,173.472253
+97,aviation,Aviation,SO2,200,1018.964478
+98,comres,Commercial and residential,BC,200,4898.947406
+99,comres,Commercial and residential,CH4,200,31670.34155
+100,comres,Commercial and residential,CO,200,288142.8612
+101,comres,Commercial and residential,NH3,200,4119.800604
+102,comres,Commercial and residential,NMVOC,200,31309.68333
+103,comres,Commercial and residential,NOx,200,19856.08778
+104,comres,Commercial and residential,OC,200,15498.22508
+105,comres,Commercial and residential,PM,200,37620.10937
+106,comres,Commercial and residential,SO2,200,3629.072484
+107,forest,Forest fire,BC,200,212.7078018
+108,forest,Forest fire,CH4,200,2191.534917
+109,forest,Forest fire,CO,200,33517.5934
+110,forest,Forest fire,NH3,200,244.93626
+111,forest,Forest fire,NMVOC,200,2610.504818
+112,forest,Forest fire,NOx,200,789.5971444
+113,forest,Forest fire,OC,200,1675.879689
+114,forest,Forest fire,PM,200,6316.777156
+115,forest,Forest fire,SO2,200,183.7021924
+116,gasdist,Gasoline distribution,NMVOC,200,50019.78054
+117,industry,Manufacturing industry,BC,200,312.2576987
+118,industry,Manufacturing industry,CH4,200,9341.018603
+119,industry,Manufacturing industry,CO,200,17604555.28
+120,industry,Manufacturing industry,NH3,200,11529.28156
+121,industry,Manufacturing industry,NMVOC,200,45065.82974
+122,industry,Manufacturing industry,NOx,200,486299.1991
+123,industry,Manufacturing industry,OC,200,253.3897249
+124,industry,Manufacturing industry,PM,200,24175.07525
+125,industry,Manufacturing industry,SO2,200,24355.42468
+126,landfill,Landfill,CH4,200,1742.891109
+127,livestock,Livestock,NH3,200,459411.4409
+128,power,Power generation,BC,200,71.50662097
+129,power,Power generation,CH4,200,47203.48834
+130,power,Power generation,CO,200,107203.3837
+131,power,Power generation,NH3,200,980.0419384
+132,power,Power generation,NMVOC,200,26802.37633
+133,power,Power generation,NOx,200,911570.0527
+134,power,Power generation,OC,200,664.4652946
+135,power,Power generation,PM,200,29951.58635
+136,power,Power generation,SO2,200,1486952.968
+137,shipping,Shipping,BC,200,173.7536011
+138,shipping,Shipping,CO,200,585.0711975
+139,shipping,Shipping,NOx,200,7679.590088
+140,shipping,Shipping,OC,200,246.6067352
+141,shipping,Shipping,PM,200,1289.257263
+142,shipping,Shipping,SO2,200,5239.939941
+143,solidwaste,Solid waste open burning,BC,200,10529.11618
+144,solidwaste,Solid waste open burning,CH4,200,12443.50101
+145,solidwaste,Solid waste open burning,CO,200,80404.16025
+146,solidwaste,Solid waste open burning,NH3,200,1799.521675
+147,solidwaste,Solid waste open burning,NMVOC,200,28715.77151
+148,solidwaste,Solid waste open burning,NOx,200,5743.154301
+149,solidwaste,Solid waste open burning,OC,200,10529.11618
+150,solidwaste,Solid waste open burning,PM,200,34076.04893
+151,solidwaste,Solid waste open burning,SO2,200,957.1923821
+152,transport,Road transportation,BC,200,31421.46124
+153,transport,Road transportation,CH4,200,24008.17812
+154,transport,Road transportation,CO,200,2267568.88
+155,transport,Road transportation,NH3,200,56041.91509
+156,transport,Road transportation,NMVOC,200,608745.5852
+157,transport,Road transportation,NOx,200,1917032.775
+158,transport,Road transportation,OC,200,94331.56221
+159,transport,Road transportation,PM,200,292022.5786
+160,transport,Road transportation,SO2,200,72849.03541
